@@ -1,0 +1,13 @@
+{
+    "name": "weather-app",
+    "version": "1.0.0",
+    "description": "A simple weather application",
+    "main": "script.js",
+    "scripts": {
+        "build:css": "npx tailwindcss -i ./src/styles.css -o ./src/output.css --watch"
+
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.4.17"
+    }
+}

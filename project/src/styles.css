@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hidden {
+  display: none;
+}
+
+/* Forecast Container */
+#forecastContainer {
+  margin-top: 20px;
+}
+
+/* Forecast Cards */
+.forecast-card {
+  background: #4a90e2; /* Light Blue */
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Ensure the forecast is in a row */
+#forecastContainer .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+}
