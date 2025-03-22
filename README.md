@@ -42,7 +42,7 @@ This Weather Forecast App allows users to check the weather for a specific city 
 - **Git**: Version control
 
 ## GitHub Repository
-[Link to GitHub Repository](https://github.com/ayuuusssh/Students_Registration_System.git)
+[Link to GitHub Repository](https://github.com/ayuuusssh/Weather_Appp.git)
 
 ## Contributors
 - Ayush Tiwari
