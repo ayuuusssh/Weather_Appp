@@ -20,7 +20,6 @@ This Weather Forecast App allows users to check the weather for a specific city 
 ### Prerequisites
 - A modern web browser
 - A code editor (e.g., VS Code)
-- Node.js (if using a local development server)
 - Git (for version control)
 
 ## Usage
